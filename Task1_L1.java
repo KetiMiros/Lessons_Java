@@ -14,7 +14,7 @@ public class Task1_L1 {
 			int num_y = myScan.nextInt();
 
 			int res;
-
+// загуглила, что нужно так сделать ,но это костыли по выводу-строки №19,20
 			System.out.print("Выберите действие: ");
 			String action = myScan.nextLine();
 			action = myScan.nextLine();
